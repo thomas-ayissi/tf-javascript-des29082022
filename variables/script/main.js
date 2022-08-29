@@ -2,3 +2,5 @@
 //variables
 let couleur ="rouge";
 const PI = 3.14;
+
+couleur= "bleu";
